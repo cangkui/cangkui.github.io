@@ -1,22 +1,21 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: A Multi-Agent Framework for Extensible Structured Text Generation in PLCs
+    authors: Donghao Yang, <strong>Aolang Wu</strong>, Tianyi Zhang, Li Zhang, Fang Liu*, Xiaoli Lian*, Yuming Ren, Jiaji Tian (*Corresponding authors)
+    conference_short: Preprint
+    conference: arXiv:2412.02410, 2024.
+    pdf: https://arxiv.org/pdf/2412.02410
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: 
+    image: https://arxiv.org/html/2412.02410v1/x1.png
+    notes: Under Submission
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Just-in-time defect prediction enhanced by the joint method of line label fusion and file filtering
+    authors: Huan Zhang, Li Kuang*, <strong>Aolang Wu</strong>, Qiuming Zhao, Xiaoxian Yang* (*Corresponding authors)
+    conference_short: IETS
+    conference: IET Software, 2023.
+    pdf: https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/sfw2.12131
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: 
+    image: https://www.researchgate.net/publication/371639428/figure/fig4/AS:11431281179154100@1691156550738/The-overall-framework-of-our-JIT-FF-model.png
+    notes: Published
